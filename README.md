@@ -53,7 +53,7 @@ The break down of the final provided CNN architecture step by step:
 
 ## Technologies Used
 
-- [Python](https://www.python.org/) - version 3.13.1
+- [Python](https://www.python.org/) - version 3.12.1
 - [Matplotlib](https://matplotlib.org/) - version 3.7.1
 - [Numpy](https://numpy.org/) - version 1.26.4
 - [Pandas](https://pandas.pydata.org/) - version 2.2.2
