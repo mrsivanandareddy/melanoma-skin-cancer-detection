@@ -8,10 +8,10 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 ## Table of Contents
 
 - [General Info](#general-information)
-- [Model Architecture](#model-architecture)
+- [Model Details](#model-architecture)
 - [Model Summary](#model-summary)
 - [Model Evaluation](#model-evaluation)
-- [Technologies Used](#technologies-used)
+- [Technologies](#technologies-used)
 - [Acknowledgements](#acknowledgements)
 - [Collaborators](#collaborators)
 
@@ -25,13 +25,13 @@ The dataset contains 2357 images of malignant and benign oncological conditions,
 
 In order to address the challenge of class imbalance, the Augmentor Python package (https://augmentor.readthedocs.io/en/master/) is employed to augment the dataset. This involved generating additional samples for all classes, ensuring that none of the classes had insufficient representation.
 
-## Pictorial representation of skin types
+## Skin types Images
 
 ![skincancertypes](./images/cancer_types.png)
 
 The aim of this task is to assign a specific class label to a particular type of skin cancer.
 
-## Model Architecture
+## Model Details
 
 The break down of the final provided CNN architecture step by step:
 
